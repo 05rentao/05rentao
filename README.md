@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there!
+
+My name in Ren Tao, I'm a student at the University of Pennsylvania majoring in computer science.
+You can reach me at 05.rentao@gmail.com.
 
 <!--
 **05rentao/05rentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
